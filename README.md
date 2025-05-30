@@ -5,7 +5,8 @@ This EDA involves libraries such as Pandas, Numpy, Matplotlib, and Seaborn to re
 
 This EDA will cover: </br>
 1. Finding missing values </br>
-2. Exploring categorical features
+2. Exploring categorical features </br>
+3. Boxplots for the closing price
 
 # Importing the Libraries
 These libraries are necessary for this analysis as they enable the opportunity to manipulate data, perform basic statistical calculations, and plot the data.
