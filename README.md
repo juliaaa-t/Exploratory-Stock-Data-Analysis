@@ -1,12 +1,10 @@
 # Introduction
-This is a data analysis project on the stock market and the S&P 500 (SPX). The S&P 500 is known as the Standard and Poor's 500 index, which is a stock market index that tracks the 500 publicly leading traded companies in the USA. 
+This is a time-series analysis project on the stock market and the S&P 500 (SPX). The S&P 500 is known as the Standard and Poor's 500 index, which is a stock market index that tracks the 500 publicly leading traded companies in the USA. 
 
-This EDA involves libraries such as Pandas, Numpy, Matplotlib, and Seaborn to retrieve patterns and visualize data trends from the S&P 500 Historical Dataset. The dataset used can be found in the files above.
+This EDA involves libraries such as Pandas, Numpy, Matplotlib, and Seaborn to retrieve patterns and visualize data trends from the S&P 500 Historical Dataset. The dataset used can be found in the repository with the title "s&p500.csv".
 
-This EDA will cover: </br>
-1. Finding missing values </br>
-2. Exploring categorical features </br>
-3. Boxplots for the closing price
+# What is Time Series Analysis?
+Time series analysis is a method of analyzing a sequence of data collected over a period of time. The analysis can show how variables change over time. 
 
 # Importing the Libraries
 These libraries are necessary for this analysis as they enable the opportunity to manipulate data, perform basic statistical calculations, and plot the data.
